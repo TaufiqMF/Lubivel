@@ -108,61 +108,6 @@ $res = $guest->single_guest($_SESSION['GUESTID']);
                       </div>
                      </div>
 
-                     <div class="form-group">
-                      <div class="col-md-10">
-                        <label class="col-md-4 control-label" for=
-                        "nationality">NATIONALITY:</label>
-
-                        <div class="col-md-8">
-                          <input name="nationality" type="text" value="<?php echo $res->G_NATIONALITY; ?>" class="form-control input-sm" id="nationality" />
-                        </div>
-                      </div>
-                    </div>
-                   
-                       <div class="form-group">
-                      <div class="col-md-10">
-                        <label class="col-md-4 control-label" for=
-                        "company">COMPANY:</label>
-
-                        <div class="col-md-8">
-                          <input name="company" type="text" value="<?php echo $res->G_COMPANY; ?>" class="form-control input-sm" id="company" />
-                        </div>
-                      </div>
-                    </div>
-                        <div class="form-group">
-                      <div class="col-md-10">
-                        <label class="col-md-4 control-label" for=
-                        "caddress">ADDRESS:</label>
-
-                        <div class="col-md-8">
-                          <input name="caddress" type="text" value="<?php echo $res->G_CADDRESS; ?>" class="form-control input-sm" id="caddress" />
-                        </div>
-                      </div>
-                    </div>
-              
-                   
-                     <!--  <div class="form-group">
-                      <div class="col-md-10">
-                        <label class="col-md-4 control-label" for=
-                        "username">USERNAME:</label>
-
-                        <div class="col-md-8">
-                          <input name="username" type="text" value="<?php echo $res->G_UNAME; ?>" class="form-control input-sm" id="username" />
-                        </div>
-                      </div>
-                     </div>
-            
-                    <div class="form-group">
-                      <div class="col-md-10">
-                        <label class="col-md-4 control-label" for=
-                        "password">PASSWORD:</label>
-
-                        <div class="col-md-8">
-                          <input name="pass" type="password" class="form-control input-sm" id="password" />
-                        </div>
-                      </div>
-                    </div> -->
-
 
                     <div class="form-group">
                       <div class="col-md-10">
