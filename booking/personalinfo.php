@@ -167,9 +167,7 @@ redirect('index.php?view=payment');
 				 <div class="form-group">
 			        <div class="col-md-12"> 
 			        	 <div class="col-md-12">
-						 <input type="checkbox" name="condition" value="checkbox" />
-					 <small> I Agree the <a class="toggle-modal"  onclick="OpenPopupCenter('terms_condition.php','Terms And Codition','600','600')" /> TERMS AND CONDITION </a> of this Hotel</small> 
-					 	
+						 
 			        	 </div>
 			
 				 
