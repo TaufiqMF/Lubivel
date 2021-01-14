@@ -108,39 +108,6 @@ if (isset($_SESSION['activity'])){
     </div>
   </div>
 
-
-
-  <!-- Menu -->
-
-  <div class="menu">
-    <div class="menu_container d-flex flex-column align-items-center justify-content-center">
-
-      <!-- Menu Navigation -->
-      <nav class="menu_nav text-center">
-        <ul>
-          <li><a href="<?php echo WEB_ROOT;?>index.php">Home</a></li>
-          <li><a href="<?php echo WEB_ROOT;?>index.php?p=about">About us</a></li>
-          <li><a href="<?php echo WEB_ROOT;?>index.php?p=rooms">Rooms</a></li> 
-          <li><a href="<?php echo WEB_ROOT;?>index.php?p=contact">Contact</a></li>
-        </ul>
-      </nav>
-      <div class="button menu_button"><a href="#">book now</a></div>
-
-      <!-- Menu Social -->
-      <div class="social menu_social">
-        <ul class="d-flex flex-row align-items-center justify-content-start">
-          <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-          <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-          <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-          <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-        </ul>
-      </div>
-
-    </div>
-  </div>
-
-
   <!-- Home -->
 
   <div class="home">
