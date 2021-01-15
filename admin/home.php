@@ -27,7 +27,7 @@
     </div>
     <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
-        This consists of the categories of rooms that is available in the Hotel. Each Category of rooms got unique features different from the other. For view all of the categories of all types of rooms Click <a href="mod_roomtype/index.php">HERE.</a>  </div>
+        This consists of the categories of rooms that is available in the Hotel. Each Category of rooms got unique features different from the other. For view all of the categories of all types of rooms Click <a href="mod_accomodation/index.php">HERE.</a>  </div>
     </div>
   </div>
   <div class="panel panel-default">
