@@ -4,14 +4,15 @@
         <div class="col">
           <div class="section_title text-center">
             <div>Welcome</div>
-            <h1>Amazing Hotel in front of the Sea</h1>
+            <h1>To Lubivel Website</h1>
           </div>
         </div>
       </div>
       <div class="row intro_row">
         <div class="col-xl-8 col-lg-10 offset-xl-2 offset-lg-1">
           <div class="intro_text text-center">
-            <p>Big show</p>
+            <h3>Place where you can relax with family or with friends with cheap price and
+             high quality standards</h3>
           </div>
         </div>
       </div>
@@ -54,29 +55,29 @@
         <div class="col-xl-6 order-xl-2 order-1">
           <div class="rooms_right_content">
             <div class="section_title">
-              <div>Rooms</div>
-              <h1>Luxury Double Suite</h1>
+              <div>Bungalow</div>
+              <h1>Putu Bungalow</h1>
             </div>
             <div class="rooms_text">
-              <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque.</p>
+              <p>Putu Bungalow tempat yang nyaman untuk liburan</p>
             </div>
             <div class="rooms_list">
               <ul>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Morbi tempus malesuada erat sed</span>
+                  <span>Dekat dengan pemandangan laut</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Tempus malesuada erat sed</span>
+                  <span>Harga murah dan terjangkau</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Pellentesque vel neque finibus elit</span>
+                  <span>Nyaman untuk keluarga</span>
                 </li>
               </ul>
             </div>
-            <div class="rooms_price">$129/<span>Night</span></div>
+            <div class="rooms_price">Rp 725.000/<span>Night</span></div>
            
           </div>
         </div>
@@ -95,29 +96,29 @@
         <div class="col-xl-6">
           <div class="rooms_left_content">
             <div class="section_title">
-              <div>Rooms</div>
-              <h1>Luxury Single Room</h1>
+              <div>Villa</div>
+              <h1>Villa Sengkedan</h1>
             </div>
             <div class="rooms_text">
-              <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque.</p>
+              <p>Tempat istirahat murah meriah</p>
             </div>
             <div class="rooms_list">
               <ul>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Morbi tempus malesuada erat sed</span>
+                  <span>Pemandangan indah</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Tempus malesuada erat sed</span>
+                  <span>Dekat dengan mini market</span>
                 </li>
                 <li class="d-flex flex-row align-items-center justify-content-start">
                   <img src="images/check.png" alt="">
-                  <span>Pellentesque vel neque finibus elit</span>
+                  <span>Private</span>
                 </li>
               </ul>
             </div>
-            <div class="rooms_price">$89/<span>Night</span></div>
+            <div class="rooms_price">Rp 2.500.000/<span>Night</span></div>
            
           </div>
         </div>
@@ -129,7 +130,7 @@
               
               <!-- Slide -->
               <div class="slide">
-                <div class="background_image" style="background-image:url(images/rooms_2.jpg)"></div>
+                <div class="background_image" style="background-image:url(images/villa.jpg)"></div>
               </div>
 
               
